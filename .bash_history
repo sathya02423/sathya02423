@@ -35,3 +35,4 @@ ping 13.127.119.100
 sudo ping 13.127.119.100
 telnet 13.127.119.100 22
 sudo su
+exit
